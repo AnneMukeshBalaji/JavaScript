@@ -1,0 +1,90 @@
+					This FILE Conatins the RoadMap During Summer Holidays
+
+
+Agenda :
+	1]Learn HTML,CSS,JS,REACT
+	2]Learn git
+	3]Start Solving DSA Problems Using JS
+	4]Complete CSP Project
+	5]Complete Intership
+
+
+
+	
+Resources To Learn Those Things 
+
+
+	1]JAVASCRIPT :: https://youtu.be/H3XIJYEPdus?si=HulUMVOx_rBGwhdL
+
+	2] CSS       :: https://youtu.be/OXGznpKZ_sA?si=vKrJgqolu1pJFSqa
+
+	3]DSA 	     :: https://youtu.be/wBtPGnVnA9g?si=YzP95ELHPUkgzWku
+
+	4]React      :: https://youtu.be/0mVbNp1ol_w?si=qj9Qf22zD8hVdgpY
+
+
+RoadMap:::::::::-->
+	
+	From 18-05-2025 To 25-05-2025 Learn JAVASCRIPT
+	
+	From 26-05-2025 To 1-06-2025 Learn CSS
+
+	From 2-06-2025 To 8-06-2025 Learn React
+
+
+	If There is Time Learn DSA but first complete intership
+ 	
+Day 				==>::::::==>		Topics To Learn
+
+18-05-2025				-->				*	Introduction 
+										*	Naming Rules
+										*	DataTypes
+										*	typeof Operator
+										*	console.log(),alert(),prompt()
+										*	JSON ==> *Structured Data,*Keyed Collection,*Map,*weak Map,*set,*weak set
+										*	TypeCasting
+
+19-05-2025				-->				*	Operators
+										*	Equality Algorithms like double euqal == ,thriple equal ===, Object.is
+										*	Loops and Conditional Operators	
+										*	Funcions
+										*	Exception Handling 
+										* 	Objects in Js
+					
+20-05-2025				-->				*	DOM API
+										*	Strict Mode
+										*	Asynchronous JAVASCRIPT
+										*	Working With API's
+										*	OOPS
+										*	Iterators and Generators
+										
+21-05-2025				-->				*	Modules in JavaScript [ESM,CommonJS]
+										*	Memory Management	[Memory LifeCycle,Garbage Collection]
+
+
+22-05-2025		==>::::==>	25-05-2025 Revise and Practise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==>:::::==>::::==>	BASIC FRONT END DEVELOPMENT ROAD Map
+
+==>	HTML
+==> CSS
+==> JS
+==> tailwind CSS,CSS Architecture,CSS Preprocessor like Sass and postCSS
+==>	REACT
+
+HERE IS A USEFULL LINK 
+
+https://github.com/HuXn-WebDev/Zero-To-FullStack-JS-Course.git
